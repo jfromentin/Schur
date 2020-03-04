@@ -1,1 +1,1 @@
-To configure, modify the file `config.hpp`.
+To configure, modify `config.hpp`.
